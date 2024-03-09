@@ -1,5 +1,5 @@
 {
-   "name":"Black Onion",
+   "name":"Dark Onion",
    "hideIconTitle":true,
    "batteryPercentage":{
       "visible":false,
@@ -10,9 +10,8 @@
       "offsetY":0,
       "onleft":false
    },
-   "someTestValue":true,
    "author":"Alpatov Danila",
-   "description":"Unlike a white onion, that one is black",
+   "description":"Unlike the Light Onion, that one is dark",
    "hideLabels":{
       "icons":true,
       "hints":false
